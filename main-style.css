@@ -1,4 +1,31 @@
-.headline {
+h1 {
     font-weight: 100;
     color: aqua;
+}
+h2 {
+    font-weight: 100;
+    color: aqua;
+}
+h3 {
+    font-weight: 100;
+    color: aqua;
+}
+h4 {
+    font-weight: 100;
+    color: aqua;
+}
+h5 {
+    font-weight: 100;
+    color: aqua;
+}
+h6 {
+    font-weight: 100;
+    color: aqua;
+}
+.background-image {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    top: 0;
+    right: 0;
 }

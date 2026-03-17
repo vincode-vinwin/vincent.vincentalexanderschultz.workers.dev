@@ -22,12 +22,21 @@ h6 {
     font-weight: 100;
     color: aqua;
 }
+p {
+    font-weight: 100;
+    color: aqua;
+    border: solid white;
+}
 .background-image {
     position: absolute;
     z-index: -1;
     left: 0;
     top: 0;
     right: 0;
+}
+.contactbutton {
+    color: black;
+    background-color: brown;
 }
 @media (max-width: 700px) {
     .background-image {
@@ -51,6 +60,9 @@ h6 {
         font-weight: 700;
     }
     h6 {
+        font-weight: 700;
+    }
+    p {
         font-weight: 700;
     }
 }

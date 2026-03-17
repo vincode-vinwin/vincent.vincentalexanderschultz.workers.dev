@@ -35,4 +35,22 @@ h6 {
         height: 100%;
         object-fit: cover;
     }
+    h1 {
+        font-weight: 700;
+    }
+    h2 {
+        font-weight: 700;
+    }
+    h3 {
+        font-weight: 700;
+    }
+    h4 {
+        font-weight: 700;
+    }
+    h5 {
+        font-weight: 700;
+    }
+    h6 {
+        font-weight: 700;
+    }
 }
